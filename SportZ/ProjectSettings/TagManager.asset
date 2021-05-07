@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Baseball
+  - Junk
+  - Spot
+  - SpotB
+  - SpotC
+  - Rival
+  - Kick
+  - Bar
+  - Hoop
+  - OtherBar
+  - OtherHoop
+  - OtherKick
+  - PunchingBag
+  - BowlingPin
+  - StickMouth
+  - Racket
+  - OtherRacket
+  - DodgeTennisBall
+  - Goal
+  - SoccerBall
+  - Hole
+  - GolfItBall
+  - GolfClubHead
+  - Target
+  - Barrier
+  - Endgoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
